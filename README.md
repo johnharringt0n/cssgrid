@@ -1,2 +1,2 @@
-# cssgrid
-Wes Bos CSS Grid Course
+# Wes Box CSS Grid Course
+[https://cssgrid.io/](https://cssgrid.io/)
